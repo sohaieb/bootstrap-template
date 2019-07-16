@@ -13,12 +13,16 @@
 #carouselExampleCaptions {
     height: 400px!important;
     overflow: hidden;
+    margin-bottom: 1%;
 }
 #carouselExampleCaptions img{
     min-height: 400px;
 }
-.darkSection {
+div.darkSection {
+    box-sizing: border-box;
     background: #b1b6bd;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 div.carouselCustomRow {
     width: 100%;
@@ -26,4 +30,60 @@ div.carouselCustomRow {
 .row {
     margin-left: 0!important;
     margin-right: 0!important;
+}
+button.coolBtn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    display: block;
+    background: red;
+    color: #ffffff;
+    margin: auto;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+div.imagesSection {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-sizing: border-box;
+}
+img.img-section{
+    margin-bottom: 10px;
+    width:100%;
+}
+div.section {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+p.embed-text {
+    padding: 5px;
+}
+div.footer-padding {
+    padding: 10px;
+}
+.fa-facebook{
+    color: #337ef5;
+}
+.fa-instagram{
+    color: #5742f5;
+}
+.fa-google{
+    color: #f5424b;
+}
+
+.socials {
+    padding: 15px;
+    width: 100%;
+}
+
+[class*=fa] {
+    margin-right: 5%;
+}
+a.none-links {
+    text-decoration: none;
+    color: none;
 }
