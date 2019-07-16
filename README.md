@@ -3,7 +3,7 @@
 This is a bootstrap html template for Websites
 ## Demo
 
-![Demonstration](https://github.com/sohaieb/bootstrap-template/blob/master/demo.jpg)
+![Demonstration](https://github.com/sohaieb/bootstrap-template/blob/master/demo.JPG)
 
 ## Built With
 
