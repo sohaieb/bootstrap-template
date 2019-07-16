@@ -80,7 +80,7 @@ div.footer-padding {
     width: 100%;
 }
 
-[class*=fa] {
+.socials [class*=fa] {
     margin-right: 5%;
 }
 a.none-links {
