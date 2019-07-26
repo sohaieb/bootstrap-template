@@ -1,6 +1,6 @@
 # Bootstrap html template 
 
-This is a bootstrap html template for Websites
+This is a responsive bootstrap html template for Websites
 ## Demo
 
 ![Demonstration](https://github.com/sohaieb/bootstrap-template/blob/master/demo.JPG)
